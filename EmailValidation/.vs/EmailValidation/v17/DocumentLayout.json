@@ -1,0 +1,214 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\51915337801\\Desktop\\Nova pasta\\EmailValidation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1D641E59-3DAF-4582-AC75-017207C0FE2A}|..\\BookManager.Test\\BookManager.Test.csproj|c:\\users\\51915337801\\desktop\\nova pasta\\bookmanager.test\\gerenciadordelivrostest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B085C0B0-D143-49C9-9E92-DDC9F4A25B39}|..\\BookManager\\BookManager.csproj|c:\\users\\51915337801\\desktop\\nova pasta\\bookmanager\\gerenciadordelivros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B085C0B0-D143-49C9-9E92-DDC9F4A25B39}|..\\BookManager\\BookManager.csproj|c:\\users\\51915337801\\desktop\\nova pasta\\bookmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DEB3B43-F38F-44D5-88D9-42680B9FC921}|..\\InventoryControl.Test\\InventoryControl.Test.csproj|c:\\users\\51915337801\\desktop\\nova pasta\\inventorycontrol.test\\inventariotest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6EA9872-EB20-440D-AB47-3B3B0A4AADFF}|..\\InventoryControl\\InventoryControl.csproj|c:\\users\\51915337801\\desktop\\nova pasta\\inventorycontrol\\inventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6EA9872-EB20-440D-AB47-3B3B0A4AADFF}|..\\InventoryControl\\InventoryControl.csproj|c:\\users\\51915337801\\desktop\\nova pasta\\inventorycontrol\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{293FDEBA-20C8-44F7-BDB1-4205DDA2423E}|..\\ConvertCelsiusToFahrenheit.Test\\ConvertCelsiusToFahrenheit.Test.csproj|c:\\users\\51915337801\\desktop\\nova pasta\\convertcelsiustofahrenheit.test\\temperatureconvertertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{049C6523-B5F9-45F3-BA39-DDFE5684073A}|..\\ConvertCelsiusToFahrenheit\\ConvertCelsiusToFahrenheit.csproj|c:\\users\\51915337801\\desktop\\nova pasta\\convertcelsiustofahrenheit\\temperatureconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{049C6523-B5F9-45F3-BA39-DDFE5684073A}|..\\ConvertCelsiusToFahrenheit\\ConvertCelsiusToFahrenheit.csproj|c:\\users\\51915337801\\desktop\\nova pasta\\convertcelsiustofahrenheit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{615BD4E9-FC14-49F7-ADDB-794534F85D23}|..\\EmailValidantion.Test\\EmailValidantion.Test.csproj|c:\\users\\51915337801\\desktop\\nova pasta\\emailvalidantion.test\\emailtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F9BCB77-8EE9-45D7-82C8-997CDDD2B514}|EmailValidation.csproj|c:\\users\\51915337801\\desktop\\nova pasta\\emailvalidation\\email.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F9BCB77-8EE9-45D7-82C8-997CDDD2B514}|EmailValidation.csproj|solutionrelative:email.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F9BCB77-8EE9-45D7-82C8-997CDDD2B514}|EmailValidation.csproj|c:\\users\\51915337801\\desktop\\nova pasta\\emailvalidation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F9BCB77-8EE9-45D7-82C8-997CDDD2B514}|EmailValidation.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GerenciadorDeLivrosTest.cs",
+              "DocumentMoniker": "C:\\Users\\51915337801\\Desktop\\Nova pasta\\BookManager.Test\\GerenciadorDeLivrosTest.cs",
+              "RelativeDocumentMoniker": "..\\BookManager.Test\\GerenciadorDeLivrosTest.cs",
+              "ToolTip": "C:\\Users\\51915337801\\Desktop\\Nova pasta\\BookManager.Test\\GerenciadorDeLivrosTest.cs",
+              "RelativeToolTip": "..\\BookManager.Test\\GerenciadorDeLivrosTest.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAYwBkAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T18:50:30.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GerenciadorDeLivros.cs",
+              "DocumentMoniker": "C:\\Users\\51915337801\\Desktop\\Nova pasta\\BookManager\\GerenciadorDeLivros.cs",
+              "RelativeDocumentMoniker": "..\\BookManager\\GerenciadorDeLivros.cs",
+              "ToolTip": "C:\\Users\\51915337801\\Desktop\\Nova pasta\\BookManager\\GerenciadorDeLivros.cs",
+              "RelativeToolTip": "..\\BookManager\\GerenciadorDeLivros.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T18:47:43.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\51915337801\\Desktop\\Nova pasta\\BookManager\\Program.cs",
+              "RelativeDocumentMoniker": "..\\BookManager\\Program.cs",
+              "ToolTip": "C:\\Users\\51915337801\\Desktop\\Nova pasta\\BookManager\\Program.cs",
+              "RelativeToolTip": "..\\BookManager\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T18:27:20.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InventarioTest.cs",
+              "DocumentMoniker": "C:\\Users\\51915337801\\Desktop\\Nova pasta\\InventoryControl.Test\\InventarioTest.cs",
+              "RelativeDocumentMoniker": "..\\InventoryControl.Test\\InventarioTest.cs",
+              "ToolTip": "C:\\Users\\51915337801\\Desktop\\Nova pasta\\InventoryControl.Test\\InventarioTest.cs",
+              "RelativeToolTip": "..\\InventoryControl.Test\\InventarioTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T18:22:28.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Inventario.cs",
+              "DocumentMoniker": "C:\\Users\\51915337801\\Desktop\\Nova pasta\\InventoryControl\\Inventario.cs",
+              "RelativeDocumentMoniker": "..\\InventoryControl\\Inventario.cs",
+              "ToolTip": "C:\\Users\\51915337801\\Desktop\\Nova pasta\\InventoryControl\\Inventario.cs",
+              "RelativeToolTip": "..\\InventoryControl\\Inventario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T18:20:49.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\51915337801\\Desktop\\Nova pasta\\InventoryControl\\Program.cs",
+              "RelativeDocumentMoniker": "..\\InventoryControl\\Program.cs",
+              "ToolTip": "C:\\Users\\51915337801\\Desktop\\Nova pasta\\InventoryControl\\Program.cs",
+              "RelativeToolTip": "..\\InventoryControl\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T18:19:17.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TemperatureConverterTest.cs",
+              "DocumentMoniker": "C:\\Users\\51915337801\\Desktop\\Nova pasta\\ConvertCelsiusToFahrenheit.Test\\TemperatureConverterTest.cs",
+              "RelativeDocumentMoniker": "..\\ConvertCelsiusToFahrenheit.Test\\TemperatureConverterTest.cs",
+              "ToolTip": "C:\\Users\\51915337801\\Desktop\\Nova pasta\\ConvertCelsiusToFahrenheit.Test\\TemperatureConverterTest.cs",
+              "RelativeToolTip": "..\\ConvertCelsiusToFahrenheit.Test\\TemperatureConverterTest.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAYwC4AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T18:13:17.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TemperatureConverter.cs",
+              "DocumentMoniker": "C:\\Users\\51915337801\\Desktop\\Nova pasta\\ConvertCelsiusToFahrenheit\\TemperatureConverter.cs",
+              "RelativeDocumentMoniker": "..\\ConvertCelsiusToFahrenheit\\TemperatureConverter.cs",
+              "ToolTip": "C:\\Users\\51915337801\\Desktop\\Nova pasta\\ConvertCelsiusToFahrenheit\\TemperatureConverter.cs",
+              "RelativeToolTip": "..\\ConvertCelsiusToFahrenheit\\TemperatureConverter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T18:11:28.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\51915337801\\Desktop\\Nova pasta\\ConvertCelsiusToFahrenheit\\Program.cs",
+              "RelativeDocumentMoniker": "..\\ConvertCelsiusToFahrenheit\\Program.cs",
+              "ToolTip": "C:\\Users\\51915337801\\Desktop\\Nova pasta\\ConvertCelsiusToFahrenheit\\Program.cs",
+              "RelativeToolTip": "..\\ConvertCelsiusToFahrenheit\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T18:10:08.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EmailTest.cs",
+              "DocumentMoniker": "C:\\Users\\51915337801\\Desktop\\Nova pasta\\EmailValidantion.Test\\EmailTest.cs",
+              "RelativeDocumentMoniker": "..\\EmailValidantion.Test\\EmailTest.cs",
+              "ToolTip": "C:\\Users\\51915337801\\Desktop\\Nova pasta\\EmailValidantion.Test\\EmailTest.cs",
+              "RelativeToolTip": "..\\EmailValidantion.Test\\EmailTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T18:00:48.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Email.cs",
+              "DocumentMoniker": "C:\\Users\\51915337801\\Desktop\\Nova pasta\\EmailValidation\\Email.cs",
+              "RelativeDocumentMoniker": "Email.cs",
+              "ToolTip": "C:\\Users\\51915337801\\Desktop\\Nova pasta\\EmailValidation\\Email.cs",
+              "RelativeToolTip": "Email.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T17:55:35.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\51915337801\\Desktop\\Nova pasta\\EmailValidation\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\51915337801\\Desktop\\Nova pasta\\EmailValidation\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T17:55:03.442Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
